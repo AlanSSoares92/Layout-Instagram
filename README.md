@@ -1,3 +1,3 @@
 # Layout-Instagram
-Replicando Layout do Instagram do zero com HTML5 e CSS3
+Replicando Layout do Instagram do zero/
 Layout feito CSS com Flexbox
